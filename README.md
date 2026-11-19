@@ -1,2 +1,2 @@
-# when-regions-arise-unexplored
+# when-biomes-arise
 A compat datapack between When Dungeons Arise and Regions Unexplored to allow structures to properly spawn within the new biomes
