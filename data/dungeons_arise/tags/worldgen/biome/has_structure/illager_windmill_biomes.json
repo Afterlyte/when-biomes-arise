@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "regions_unexplored:grassland",
+        "regions_unexplored:prairie",
+        "regions_unexplored:rocky_meadow"
+    ]
+}

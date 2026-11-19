@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:has_structure/village_plains",
+        "#minecraft:has_structure/woodland_mansion",
+        "#minecraft:has_structure/village_savanna"
+    ]
+}
